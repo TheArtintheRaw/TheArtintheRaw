@@ -1,16 +1,24 @@
+Hi 👋 My name is Roger Andrews
+==============================
+
+Fullstack Developer
+-------------------
+
 Specializing in development using leading technologies like Next.js, React, TypeScript, and Python. expertise in building microservices, designing databases, and enhancing application performance. An adept communicator and collaborator, with an ability to integrate cloud solutions and AI into web development projects.
 
-* 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [randrews@rogerthat.space](mailto:randrews@rogerthat.space)
-* 🧠  I'm learning Cloud Integration
-* 🤝  I'm open to collaborating on anything really, send a message.
+* 🌍  I'm based in Toronto, Canada
+* ✉️  You can contact me at [randrews@rogerthat.space](mailto:randrews@rogerthat.space)
+* 🧠  I'm learning Cloud Integration
+* 🤝  I'm open to collaborating on anything really, send a message.
 
 ### Skills
+
 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
+
 
 ### Socials
 
