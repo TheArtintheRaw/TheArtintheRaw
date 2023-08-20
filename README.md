@@ -9,7 +9,7 @@ Specializing in development using leading technologies like Next.js, React, Type
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [randrews@rogerthat.space](mailto:randrews@rogerthat.space)
 * 🧠  I'm learning Cloud Integration
-* 🤝  I'm open to collaborating on anything really, send a message.
+* 🤝  I'm open to collaborating on most projects that involve AI integration or need graphic design, send me a message.
 
 ### Skills
 
