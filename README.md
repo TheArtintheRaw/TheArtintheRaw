@@ -7,9 +7,9 @@ Fullstack Developer
 Specializing in development using leading technologies like Next.js, React, TypeScript, and Python. expertise in building microservices, designing databases, and enhancing application performance. An adept communicator and collaborator, with an ability to integrate cloud solutions and AI into web development projects.
 
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [randrews@rogerthat.space](mailto:theartintheraw@gmail.com)
-* 🧠  I'm learning Cloud Integration
-* 🤝  I'm open to collaborating on most projects that involve AI integration or need graphic design, send me a message.
+* ✉️  You can contact me at [theartintheraw@gmail.com](mailto:theartintheraw@gmail.com)
+* 🧠  Learning Rust
+* 🤝  Always looking to learn, open to collaboration.
 
 ### Skills
 
