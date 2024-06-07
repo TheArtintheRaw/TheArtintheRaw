@@ -7,7 +7,7 @@ Fullstack Developer
 Specializing in development using leading technologies like Next.js, React, TypeScript, and Python. expertise in building microservices, designing databases, and enhancing application performance. An adept communicator and collaborator, with an ability to integrate cloud solutions and AI into web development projects.
 
 * 🌍  I'm based in Toronto, Canada
-* ✉️  You can contact me at [randrews@rogerthat.space](mailto:randrews@rogerthat.space)
+* ✉️  You can contact me at [randrews@rogerthat.space](mailto:theartintheraw@gmail.com)
 * 🧠  I'm learning Cloud Integration
 * 🤝  I'm open to collaborating on most projects that involve AI integration or need graphic design, send me a message.
 
@@ -48,11 +48,3 @@ Specializing in development using leading technologies like Next.js, React, Type
   <a href="https://www.linkedin.com/in/artintheraw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a> 
   <a href="https://www.x.com/TheArtintheRaw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></picture></a>
 </p>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/rogerandrews"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
